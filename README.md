@@ -1,6 +1,6 @@
 ## Jailbreaking LLMs with Arabic Transliteration and Arabizi
 
-This repository contains codes for our paper "[Jailbreaking LLMs with Arabic Transliteration and Arabizi](https://arxiv.org/pdf/2406.18725)" accepted. Our paper investigates the use of Arabic non-standardized forms such as Arabizi and Transliteration to jailbreak LLMs. The paper also investigates potenial security risks of using these forms to vulnerabilities exposure such as learned model shortcuts. The results of the experiments highlights the need for more safety and adversarial training in cross-lingual manner with awareness of nonstandardized language forms, especially for Arabic.
+This repository contains codes for our paper "[Jailbreaking LLMs with Arabic Transliteration and Arabizi](https://arxiv.org/pdf/2406.18725)". Our paper investigates the use of Arabic non-standardized forms such as Arabizi and Transliteration to jailbreak LLMs. The paper also investigates potenial security risks of using these forms to vulnerabilities exposure such as learned model shortcuts. The results of the experiments highlights the need for more safety and adversarial training in cross-lingual manner with awareness of nonstandardized language forms, especially for Arabic.
 
 ## Environment Setup
 1. Requirements:   <br/>
